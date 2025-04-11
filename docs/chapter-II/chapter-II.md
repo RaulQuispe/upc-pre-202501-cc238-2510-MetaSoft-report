@@ -21,10 +21,10 @@ En esta sección, el equipo llevará a cabo un análisis competitivo de los tres
     <tbody style="text-align: center">
         <tr>
             <th colspan="2"></th>
-            <th> <img width="100" alt="Logo_ExilirControl" src="../assets/img/chapter-II/Logo_ExilirControl.png"> </th>
-            <th><img src="../assets/img/chapter-II/Logo_Vinotec.png" width="100" alt="Logo_Vinotec"></th>
-            <th><img src="../assets/img/chapter-II/Logo_WineManager.png" width="100" alt="Logo_WineManager"></th>
-            <th><img src="../assets/img/chapter-II/Logo_Vintrace.png" width="100" alt="Logo_Vintrace"></th>
+            <th> <img width="100" alt="Logo_ExilirControl" src="../../assets/img/chapter-II/Logo_ExilirControl.png"> </th>
+            <th><img src="../../assets/img/chapter-II/Logo_Vinotec.png" width="100" alt="Logo_Vinotec"></th>
+            <th><img src="../../assets/img/chapter-II/Logo_WineManager.png" width="100" alt="Logo_WineManager"></th>
+            <th><img src="../../assets/img/chapter-II/Logo_Vintrace.png" width="100" alt="Logo_Vintrace"></th>
         </tr>
         <tr>
             <th rowspan="2"> <strong> Perfil </strong> </th>
